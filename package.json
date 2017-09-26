@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/learn-co-curriculum/node-mocha#readme",
   "devDependencies": {
-    "chai": "^3.5.0",
-    "mocha": "^2.4.5"
+    "chai": "3.5.0",
+    "mocha": "2.4.5"
   }
 }
